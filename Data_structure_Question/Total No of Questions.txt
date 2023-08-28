@@ -1,0 +1,37 @@
+Data Structures:
+25 array                    6days 
+40 string                  13days
+30 stack                    7days
+28 queue                  1week
+31 heap                     8days
+39 linkledist              10days
+47 trees                    12days
+43 graph                   11 days
+
+Algorithms:
+
+20 search                   5days
+20 sort                        5days
+
+
+Total 348 Questions. 
+80 x 4 prblms.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
