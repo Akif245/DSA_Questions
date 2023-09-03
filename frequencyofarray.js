@@ -8,4 +8,4 @@ arr.forEach((val,index)=>{
                     count[val] = count[val]+1;
           }
 })
-console.log(count);
+console.log(count); 

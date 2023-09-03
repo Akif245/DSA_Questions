@@ -1,5 +1,4 @@
 const prompt = require("prompt-sync")()
-
 console.log("Enter the Size of Array");
 let index = prompt();
 let array = [index];
